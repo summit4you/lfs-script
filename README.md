@@ -10,4 +10,15 @@ The current image can be executed directly using QEMU with the following command
 sudo qemu-system-x86_64 -m 1024 -drive file=lfs.12.3.img,format=raw -nographic
 ```
 
+**System Image Download Links:**
+- Google Drive: [https://drive.google.com/file/d/1L5-c0q5fOEl-33705DJ2UXtzhQZAFCoa/view?usp=sharing](https://drive.google.com/file/d/1L5-c0q5fOEl-33705DJ2UXtzhQZAFCoa/view?usp=sharing)
+- Baidu Cloud Disk: [https://pan.baidu.com/s/1vVIlUR6rqjMR8e5XbGIEvg?pwd=jc8i](https://pan.baidu.com/s/1vVIlUR6rqjMR8e5XbGIEvg?pwd=jc8i)
+
+
+**Default Credentials:**
+- Username: `root`
+- Password: `123`
+
 If you have any questions or need further assistance, please feel free to submit an issue.
+
+![Startup Process](images/startup.png)
